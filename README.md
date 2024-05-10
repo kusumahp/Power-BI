@@ -41,7 +41,7 @@ A card visual was used to represent sum of profit
  
 ![Sum Of Quantity](https://github.com/kusumahp/Power-BI/assets/156166019/7051719d-27ae-4891-a2c9-b8696bf17a6f)
  
- - Step 18 : The report was then published to Power BI Service.
+ - Step 9  : The report was then published to Power BI Service.
  
  # Report Snapshot (Power BI DESKTOP)
 
